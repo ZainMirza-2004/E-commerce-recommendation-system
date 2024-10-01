@@ -4,7 +4,7 @@ Here's an engaging README for your vector-based recommendation system:
 
 # 🛒 Vector-Based Recommendation System
 
-Welcome to the **Vector-Based Recommendation System**! This project analyzes customer purchase history to generate personalized product recommendations. By calculating the similarity between items using **cosine similarity** and **vector angles**, it suggests relevant products to enhance the shopping experience.
+This project analyzes customer purchase history to generate personalized product recommendations. By calculating the similarity between items using **cosine similarity** and **vector angles**, it suggests relevant products to enhance the shopping experience.
 
 ## 🚀 How It Works
 
