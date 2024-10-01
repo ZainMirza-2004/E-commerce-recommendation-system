@@ -22,14 +22,10 @@ The recommendation system works by:
 - **Efficient Computation**: Uses vector angles and cosine similarity for quick and accurate item comparisons.
 - **Scalable**: Can be extended to work with larger datasets and more complex shopping behaviors.
 
-## 📂 Files
-- **`history.txt`**: Sample customer purchase data (transactions).
-- **`queries.txt`**: Sample shopping cart queries to test the recommendation system.
-
 ## How to Run
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/vector-recommendation-system.git
+    git clone https://github.com/ZainMirza-2004/E-commerce-recommendation-system.git
     ```
 2. Install required dependencies:
     ```bash
